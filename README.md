@@ -3,4 +3,4 @@ best-practices
 
 (probabilistically) the best way to do science.
 
-see the wiki for more info ---->
+Please proceed to **[the wiki →](https://github.com/StanfordCoCoLab/best-practices/wiki)**
