@@ -7,6 +7,13 @@
 # library(ggplot2)
 # library(gridExtra)
 # source("/Users/mht/Documents/research/tools/rStartup.R")
+# 
+# .First <- function(){
+# library(ggplot2)
+# library(gridExtra)
+# source("/Users/mht/Documents/research/tools/rStartup.R")
+# cat("\nWelcome at", date(), "\n")
+#}
 
 # Note: change path to accurately reflect the location of rStartup.R
 
